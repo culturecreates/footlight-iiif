@@ -1,6 +1,13 @@
 # README
 
 
+
+Pre-requisites
+================
+
+* brew install GraphicsMagick
+
+
 Size
 ===========
 
