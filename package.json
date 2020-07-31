@@ -1,5 +1,5 @@
 {
-  "name": "footlight_iiis",
+  "name": "footlight_iiif",
   "private": true,
   "dependencies": {
     "@rails/actioncable": "^6.0.0",
